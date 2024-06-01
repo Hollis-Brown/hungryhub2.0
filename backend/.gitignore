@@ -1,4 +1,3 @@
 node_modules
 .env
-1-Notes.md
-BackendProjectInstructions.md
+*.md
